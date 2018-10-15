@@ -1,0 +1,18 @@
+const int dirPin = 13;
+const int stepPin = 12
+const int MODE0 = 11;
+const int MODE1 = 10;
+const int MODE2 = 9;
+const int ENABLE = 8;
+
+const int softwareSerialTXSIM = 7;
+const int softwareSerialRXSIM = 6;
+const int softwareSerialTXPlayer = 5;
+const int softwareSerialRXPlayer = 4;
+
+const int trigPinHand = 3;
+const int echoPinHand = 2;
+
+const int trigPinTrash = A0;
+const int echoPinTrash = A1;
+const int homeSwitch = A2
